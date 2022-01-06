@@ -1,0 +1,2 @@
+please run it on terminal
+git config --add --local core.sshCommand 'ssh -i ~/.ssh/id_2'
